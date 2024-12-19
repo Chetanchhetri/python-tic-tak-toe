@@ -1,0 +1,1 @@
+This is a Python-based multiplayer Tic-Tac-Toe game two players compete on a 3x3 grid, aiming to align three marks in a row or column Easy to understand and play, it’s perfect for beginners to practice Python programming and enjoy a fun, classic game with friends.
